@@ -112,4 +112,4 @@ console.log(person.email);
 //--> 'John.Doe.@gmail.com'
 
 console.log(Object.keys(person));
---> ['firstNames', 'lastNames']
+//--> ['firstNames', 'lastNames']
