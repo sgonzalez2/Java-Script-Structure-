@@ -18,3 +18,19 @@ console.log(list[index]);
 
 //Select 6 to the console
 console.log(list[a+b]);
+
+
+//How Properties Work
+
+let greeting = 'Hello World';
+let Property = 'length';
+
+//Select 11 to the console
+console.log(greeting.length);
+
+//Select 11 to the console
+console.log(greeting['length']);
+
+//Select 11 to the console
+console.log(greeting[Property]);
+
